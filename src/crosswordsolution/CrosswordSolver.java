@@ -1,6 +1,4 @@
-package crossword;
-
-import org.junit.Test;
+package crosswordsolution;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

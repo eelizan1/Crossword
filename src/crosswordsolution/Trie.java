@@ -1,4 +1,4 @@
-package crossword;
+package crosswordsolution;
 
 import java.util.*;
 class Trie {

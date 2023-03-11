@@ -1,13 +1,9 @@
-package crossword;
+package crosswordsolution;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.*;
 
-import static crosswordsolver.Program.GetPossibleWords;
-
 public class Main {
-    private static final String DICTIONARY_PATH = "src/crossword/files/english.csv";
+    private static final String DICTIONARY_PATH = "src/crosswordsolution/files/english.csv";
 
     public static void main(String[] args) {
         CrosswordSolver crosswordSolver = new CrosswordSolver();

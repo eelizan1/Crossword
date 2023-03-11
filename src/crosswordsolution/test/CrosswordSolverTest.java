@@ -1,6 +1,6 @@
-package crossword.test;
+package crosswordsolution.test;
 
-import crossword.CrosswordSolver;
+import crosswordsolution.CrosswordSolver;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;

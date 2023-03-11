@@ -1,4 +1,4 @@
-package crossword;
+package crosswordsolution;
 
 public class TrieNode {
     boolean isEndOfWord;
